@@ -4,29 +4,6 @@
 
 ### You can call me **Vice**
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Machine+Learning+Explorer;Building+and+Learning+Every+Day"
-alt="Typing animation"
-/>
-
-<p>
-  <a href="mailto:th91rb@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-th91rb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://github.com/VicePlr">
-    <img
-      src="https://img.shields.io/badge/GitHub-VicePlr-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-</div>
-
 ---
 
 ## 👨‍💻 Who Am I?
