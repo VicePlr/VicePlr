@@ -4,6 +4,8 @@
 
 ### You can call me **Vice**
 
+</div>
+
 ---
 
 ## 👨‍💻 Who Am I?
@@ -36,35 +38,15 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 ## 🛠️ What Tools Do I Use?
 
-**Programming languages:** Python, C++, JavaScript, HTML, CSS and SQL
+**Programming languages:** Python, C++, JavaScript, HTML, CSS, and SQL
 
-**Machine learning:** Scikit-learn, TensorFlow and PyTorch
+**Machine learning:** Scikit-learn, TensorFlow, and PyTorch
 
-**Data analysis:** NumPy, Pandas and Matplotlib
+**Data analysis:** NumPy, Pandas, and Matplotlib
 
 **Computer vision:** OpenCV
 
-**Development tools:** Git, GitHub, VS Code, Jupyter Notebook and Google Colab
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=VicePlr&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub statistics"
-/>
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicePlr&layout=compact&theme=tokyonight&hide_border=true"
-alt="Most used languages"
-/>
-
-</div>
+**Development tools:** Git, GitHub, VS Code, Jupyter Notebook, and Google Colab
 
 ---
 
