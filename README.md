@@ -50,55 +50,24 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 ## 🚀 What Am I Currently Working On?
 
 * Building machine-learning projects
-* Learning deep learning fundamentals
-* Exploring computer vision and NLP
+* Learning deep-learning fundamentals
+* Exploring computer vision and natural language processing
 * Improving my Python and problem-solving skills
 * Learning how to evaluate and deploy AI models
-
-### Current Project
-
-📩 **SMS Spam Classifier**
-
-A machine-learning model that classifies messages as spam or ham.
-
-Topics I am practicing:
-
-* Text preprocessing
-* TF-IDF
-* Logistic regression
-* Random forest
-* F1-score evaluation
-* Imbalanced datasets
-* Scikit-learn pipelines
-* Model exporting with Joblib
 
 ---
 
 ## 🛠️ What Tools Do I Use?
 
-### Languages
+**Programming languages:** Python, C++, JavaScript, HTML, CSS and SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Languages"/>
-</p>
+**Machine learning:** Scikit-learn, TensorFlow and PyTorch
 
-### AI and Data Science
+**Data analysis:** NumPy, Pandas and Matplotlib
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI tools"/>
-</p>
+**Computer vision:** OpenCV
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Development tools"/>
-</p>
+**Development tools:** Git, GitHub, VS Code, Anaconda, Jupyter Notebook and Google Colab
 
 ---
 
@@ -124,8 +93,8 @@ alt="Most used languages"
 
 ## 📫 How to Reach Me
 
-* Email: [th91rb@gmail.com](mailto:th91rb@gmail.com)
-* GitHub: [github.com/VicePlr](https://github.com/VicePlr)
+* **Email:** [th91rb@gmail.com](mailto:th91rb@gmail.com)
+* **GitHub:** [github.com/VicePlr](https://github.com/VicePlr)
 
 ---
 
