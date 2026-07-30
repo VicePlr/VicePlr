@@ -102,9 +102,4 @@ alt="Most used languages"
 
 ### Learning. Building. Improving. 🚀
 
-<img
-src="https://komarev.com/ghpvc/?username=VicePlr&style=for-the-badge&color=blue"
-alt="Profile views"
-/>
-
 </div>
