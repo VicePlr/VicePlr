@@ -67,7 +67,7 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 **Computer vision:** OpenCV
 
-**Development tools:** Git, GitHub, VS Code, Anaconda, Jupyter Notebook and Google Colab
+**Development tools:** Git, GitHub, VS Code, Jupyter Notebook and Google Colab
 
 ---
 
