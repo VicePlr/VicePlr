@@ -38,7 +38,7 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 ## 🛠️ What Tools Do I Use?
 
-**Programming languages:** Python, C++, JavaScript, HTML, CSS, and SQL
+**Programming languages:** Python, and SQL
 
 **Machine learning:** Scikit-learn, TensorFlow, and PyTorch
 
