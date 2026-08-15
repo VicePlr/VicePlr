@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hoang Trong Hieu 👋
+# Hi, I'm Hoang Trong Hieu 
 
 ### You can call me **Vice**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## Who Am I?
 
 ```python
 class Vice:
@@ -26,7 +26,7 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 ---
 
-## 🚀 What Am I Currently Working On?
+## What Am I Currently Working On?
 
 * Building machine-learning projects
 * Learning deep-learning fundamentals
@@ -36,7 +36,7 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 ---
 
-## 🛠️ What Tools Do I Use?
+## What Tools Do I Use?
 
 **Programming languages:** Python, and SQL
 
@@ -50,15 +50,7 @@ This GitHub profile documents my learning journey, experiments, mistakes, and pr
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 * **Email:** [th91rb@gmail.com](mailto:th91rb@gmail.com)
 * **GitHub:** [github.com/VicePlr](https://github.com/VicePlr)
-
----
-
-<div align="center">
-
-### Learning. Building. Improving. 🚀
-
-</div>
