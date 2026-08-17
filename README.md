@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hoang Trong Hieu 
-
-### You can call me **Vice**
+# Hi, I'm Hoang Trong Hieu aka Vice
 
 </div>
 
